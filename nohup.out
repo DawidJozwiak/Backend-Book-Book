@@ -1,0 +1,701 @@
+  File "manage.py", line 17
+    ) from exc
+         ^
+SyntaxError: invalid syntax
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+May 23, 2021 - 00:53:05
+Django version 3.2.3, using settings 'djangoProject.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+  File "manage.py", line 17
+    ) from exc
+         ^
+SyntaxError: invalid syntax
+[23/May/2021 00:55:56] "GET /publications/ HTTP/1.1" 200 988
+Not Found: /images/icons/gear.png
+[23/May/2021 00:55:56] "GET /images/icons/gear.png HTTP/1.1" 404 2311
+[23/May/2021 00:57:12] "GET /publications/ HTTP/1.1" 200 988
+Not Found: /images/icons/gear.png
+[23/May/2021 00:57:12] "GET /images/icons/gear.png HTTP/1.1" 404 2311
+[23/May/2021 00:57:14] "GET /publications/ HTTP/1.1" 200 988
+Not Found: /images/icons/gear.png
+[23/May/2021 00:57:14] "GET /images/icons/gear.png HTTP/1.1" 404 2311
+[23/May/2021 00:57:24] "GET /publications/ HTTP/1.1" 200 988
+Not Found: /images/icons/gear.png
+[23/May/2021 00:57:24] "GET /images/icons/gear.png HTTP/1.1" 404 2311
+[23/May/2021 00:57:25] "GET /publications/ HTTP/1.1" 200 988
+Not Found: /images/icons/gear.png
+[23/May/2021 00:57:26] "GET /images/icons/gear.png HTTP/1.1" 404 2311
+[23/May/2021 00:57:27] "GET /publications/ HTTP/1.1" 200 988
+Not Found: /images/icons/gear.png
+[23/May/2021 00:57:27] "GET /images/icons/gear.png HTTP/1.1" 404 2311
+[23/May/2021 00:57:27] "GET /publications/ HTTP/1.1" 200 988
+Not Found: /images/icons/gear.png
+[23/May/2021 00:57:28] "GET /images/icons/gear.png HTTP/1.1" 404 2311
+[23/May/2021 00:57:28] "GET /publications/ HTTP/1.1" 200 988
+Not Found: /images/icons/gear.png
+[23/May/2021 00:57:29] "GET /images/icons/gear.png HTTP/1.1" 404 2311
+[23/May/2021 00:57:29] "GET /publications/ HTTP/1.1" 200 988
+Not Found: /images/icons/gear.png
+[23/May/2021 00:57:29] "GET /images/icons/gear.png HTTP/1.1" 404 2311
+[23/May/2021 00:57:30] "GET /publications/ HTTP/1.1" 200 988
+Not Found: /images/icons/gear.png
+[23/May/2021 00:57:30] "GET /images/icons/gear.png HTTP/1.1" 404 2311
+[23/May/2021 00:57:31] "GET /publications/ HTTP/1.1" 200 988
+Not Found: /images/icons/gear.png
+[23/May/2021 00:57:31] "GET /images/icons/gear.png HTTP/1.1" 404 2311
+[23/May/2021 00:57:31] "GET /publications/ HTTP/1.1" 200 988
+Not Found: /images/icons/gear.png
+[23/May/2021 00:57:31] "GET /images/icons/gear.png HTTP/1.1" 404 2311
+[23/May/2021 00:57:32] "GET /publications/ HTTP/1.1" 200 988
+Not Found: /images/icons/gear.png
+[23/May/2021 00:57:32] "GET /images/icons/gear.png HTTP/1.1" 404 2311
+[23/May/2021 00:57:32] "GET /publications/ HTTP/1.1" 200 988
+Not Found: /images/icons/gear.png
+[23/May/2021 00:57:33] "GET /images/icons/gear.png HTTP/1.1" 404 2311
+[23/May/2021 00:57:33] "GET /publications/ HTTP/1.1" 200 988
+Not Found: /images/icons/gear.png
+[23/May/2021 00:57:34] "GET /images/icons/gear.png HTTP/1.1" 404 2311
+[23/May/2021 00:57:34] "GET /publications/ HTTP/1.1" 200 988
+Not Found: /images/icons/gear.png
+[23/May/2021 00:57:34] "GET /images/icons/gear.png HTTP/1.1" 404 2311
+[23/May/2021 00:57:45] "GET /publications/ HTTP/1.1" 200 988
+[23/May/2021 00:58:13] "GET /publications/ HTTP/1.1" 200 988
+Not Found: /images/icons/gear.png
+[23/May/2021 00:58:14] "GET /images/icons/gear.png HTTP/1.1" 404 2311
+[23/May/2021 00:58:15] "GET /publications/ HTTP/1.1" 200 988
+Not Found: /images/icons/gear.png
+[23/May/2021 00:58:15] "GET /images/icons/gear.png HTTP/1.1" 404 2311
+[23/May/2021 00:59:03] "GET /publications/ HTTP/1.1" 200 988
+Not Found: /images/icons/gear.png
+[23/May/2021 00:59:03] "GET /images/icons/gear.png HTTP/1.1" 404 2311
+[23/May/2021 00:59:03,736] - Broken pipe from ('37.47.98.210', 16040)
+
+[23/May/2021 00:59:04] "GET /publications/ HTTP/1.1" 200 988
+Not Found: /images/icons/gear.png
+[23/May/2021 00:59:04] "GET /images/icons/gear.png HTTP/1.1" 404 2311
+[23/May/2021 00:59:05] "GET /publications/ HTTP/1.1" 200 988
+Not Found: /images/icons/gear.png
+[23/May/2021 00:59:06] "GET /images/icons/gear.png HTTP/1.1" 404 2311
+[23/May/2021 00:59:07] "GET /publications/ HTTP/1.1" 200 988
+Not Found: /images/icons/gear.png
+[23/May/2021 00:59:07] "GET /images/icons/gear.png HTTP/1.1" 404 2311
+[23/May/2021 01:00:45] "GET /publications/ HTTP/1.1" 200 988
+Not Found: /images/icons/gear.png
+[23/May/2021 01:00:45] "GET /images/icons/gear.png HTTP/1.1" 404 2311
+[23/May/2021 01:02:35] "GET /publications/ HTTP/1.1" 200 988
+Not Found: /images/icons/gear.png
+[23/May/2021 01:02:35] "GET /images/icons/gear.png HTTP/1.1" 404 2311
+[23/May/2021 02:12:31] "GET /publications/ HTTP/1.1" 200 988
+Not Found: /c/
+[23/May/2021 03:24:25] "GET /c/ HTTP/1.1" 404 2254
+Not Found: /
+[23/May/2021 06:32:57] "GET / HTTP/1.1" 404 2225
+[23/May/2021 06:33:50] "GET /publications/ HTTP/1.1" 200 988
+Not Found: /favicon.ico
+[23/May/2021 06:33:50] "GET /favicon.ico HTTP/1.1" 404 2281
+[23/May/2021 06:48:51] "GET /publications/ HTTP/1.1" 200 988
+Not Found: /foos/
+[23/May/2021 07:50:28] "GET /foos/ HTTP/1.1" 404 2263
+Not Found: /favicon.ico
+[23/May/2021 07:50:29] "GET /favicon.ico HTTP/1.1" 404 2281
+Not Found: /foos/
+[23/May/2021 07:50:31] "GET /foos/ HTTP/1.1" 404 2263
+[23/May/2021 09:21:45,139] - Broken pipe from ('162.142.125.54', 36806)
+
+Not Found: /
+[23/May/2021 09:21:46] "GET / HTTP/1.1" 404 2230
+[23/May/2021 09:21:46,447] - Broken pipe from ('162.142.125.54', 40510)
+
+Not Found: /
+[23/May/2021 09:21:46] "GET / HTTP/1.1" 404 2230
+Not Found: /_ignition/execute-solution
+[23/May/2021 12:14:14] "POST /_ignition/execute-solution HTTP/1.1" 404 2327
+[23/May/2021 13:27:18] "GET /publications/ HTTP/1.1" 200 988
+[23/May/2021 13:27:20,881] - Broken pipe from ('46.134.12.92', 19071)
+
+[23/May/2021 13:27:20,881] - Broken pipe from ('46.134.12.92', 22507)
+
+[23/May/2021 13:27:22] "GET /publications/ HTTP/1.1" 200 988
+[23/May/2021 13:27:24,235] - Broken pipe from ('46.134.12.92', 14738)
+
+[23/May/2021 13:27:24,235] - Broken pipe from ('46.134.12.92', 15037)
+
+Not Found: /
+[23/May/2021 13:32:59] "GET / HTTP/1.1" 404 2230
+[23/May/2021 13:38:02] "GET /publications/ HTTP/1.1" 200 988
+[23/May/2021 13:56:23] "GET /publications/ HTTP/1.1" 200 988
+[23/May/2021 13:56:23] "GET /publications/ HTTP/1.1" 200 988
+[23/May/2021 13:56:23] "GET /publications/ HTTP/1.1" 200 988
+[23/May/2021 13:56:25] "GET /publications/ HTTP/1.1" 200 988
+[23/May/2021 13:56:25] "GET /publications/ HTTP/1.1" 200 988
+[23/May/2021 13:56:25] "GET /publications/ HTTP/1.1" 200 988
+[23/May/2021 13:56:28] "GET /publications/ HTTP/1.1" 200 988
+[23/May/2021 13:56:29] "GET /publications/ HTTP/1.1" 200 988
+[23/May/2021 13:56:29] "GET /publications/ HTTP/1.1" 200 988
+[23/May/2021 13:56:50] "GET /publications/ HTTP/1.1" 200 988
+[23/May/2021 13:56:50] "GET /publications/ HTTP/1.1" 200 988
+[23/May/2021 13:56:50] "GET /publications/ HTTP/1.1" 200 988
+[23/May/2021 13:56:57] "GET /publications/ HTTP/1.1" 200 988
+[23/May/2021 13:56:57] "GET /publications/ HTTP/1.1" 200 988
+[23/May/2021 13:56:57] "GET /publications/ HTTP/1.1" 200 988
+Not Found: /foos/
+[23/May/2021 14:05:58] "GET /foos/ HTTP/1.1" 404 2263
+Not Found: /favicon.ico
+[23/May/2021 14:05:58] "GET /favicon.ico HTTP/1.1" 404 2281
+[23/May/2021 14:06:04] "GET /publications/ HTTP/1.1" 200 988
+[23/May/2021 15:08:47] "GET /publications/ HTTP/1.1" 200 988
+[23/May/2021 15:17:07] code 400, message Bad HTTP/0.9 request type ('\\x01\\x00\\x00\\x00')
+[23/May/2021 15:17:07] "\x01\x00\x00\x00 \xbf\x02\x00\x88\x13\x00\x00\x87\x00\x00\x00NIMABIJIAN\x04\x03\x00\x00{\x99Caig\x9c\x03\xc7eB\xc5\t\xc1\x18a\x11\x1a\x91\x1f\x02\tcof\x91\xc0\x80sJ5\xd2\x80\xe6\x9a~\xb9\xc7\x83^\x96\xeeN\x16\x96\x96&\xe6\x03\xea\xbc\x81\x02=\xac\x10\xfa?7\x03\xc3\xdf\xf7\xe4\x98`p\xe6\x8d\xc1\xa9\x8d\xc6\x06\xdb\xaf\x91\xe7\x82s\xf7\x14H\xd4\xe1W\x9a\x93C\x9e]\xa4\x01#\x03#\x03]\x03c]CC\x05C\x03+S\x03b\xf4\x00\x00/\x9e\x16E" 400 -
+[23/May/2021 15:19:49,497] - Broken pipe from ('162.142.125.55', 45552)
+
+Not Found: /
+[23/May/2021 15:19:50] "GET / HTTP/1.1" 404 2230
+[23/May/2021 15:19:51,050] - Broken pipe from ('162.142.125.55', 35732)
+
+Not Found: /
+[23/May/2021 15:19:51] "GET / HTTP/1.1" 404 2230
+Not Found: /
+[23/May/2021 15:32:27] "GET / HTTP/1.1" 404 2230
+[23/May/2021 16:02:37] "GET /publications/ HTTP/1.1" 200 988
+[23/May/2021 16:02:37] "GET /publications/ HTTP/1.1" 200 988
+[23/May/2021 16:02:38] "GET /publications/ HTTP/1.1" 200 988
+[23/May/2021 16:02:40] "GET /publications/ HTTP/1.1" 200 988
+[23/May/2021 16:02:40] "GET /publications/ HTTP/1.1" 200 988
+[23/May/2021 16:02:40] "GET /publications/ HTTP/1.1" 200 988
+[23/May/2021 17:05:55] "GET /publications/ HTTP/1.1" 200 988
+Not Found: /
+[23/May/2021 20:47:24] "GET / HTTP/1.1" 404 2230
+Invalid HTTP_HOST header: 'ip-172-31-43-182.eu-central-1.compute.internal:8000'. You may need to add 'ip-172-31-43-182.eu-central-1.compute.internal' to ALLOWED_HOSTS.
+Bad Request: /
+[23/May/2021 22:11:30] "GET / HTTP/1.0" 400 62302
+[24/May/2021 00:06:00] code 400, message Bad request version ('À\x14À')
+[24/May/2021 00:06:00] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Invalid HTTP_HOST header: 'ip-172-31-43-182.eu-central-1.compute.internal:8000'. You may need to add 'ip-172-31-43-182.eu-central-1.compute.internal' to ALLOWED_HOSTS.
+Bad Request: /
+[24/May/2021 01:37:33] "GET / HTTP/1.0" 400 62301
+[24/May/2021 01:37:35] code 400, message Bad HTTP/0.9 request type ('l\x00')
+[24/May/2021 01:37:35] "l          " 400 -
+[24/May/2021 01:37:35,659] - Broken pipe from ('142.93.153.184', 60946)
+
+Invalid HTTP_HOST header: 'ip-172-31-43-182.eu-central-1.compute.internal:8000'. You may need to add 'ip-172-31-43-182.eu-central-1.compute.internal' to ALLOWED_HOSTS.
+Bad Request: /nice ports,/Trinity.txt.bak
+[24/May/2021 01:37:36] "GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0" 400 62610
+[24/May/2021 01:37:36] code 400, message Bad request syntax ('\x05\x04\x00\x01\x02\x80\x05\x01\x00\x03')
+[24/May/2021 01:37:36] "  " 400 -
+[24/May/2021 01:37:38] code 400, message Bad request syntax ('\x04\x01\x00\x16\x7f\x00\x00\x01root\x00')
+[24/May/2021 01:37:38] "   root " 400 -
+[24/May/2021 01:37:38,345] - Broken pipe from ('142.93.153.184', 34640)
+
+[24/May/2021 01:37:38] code 400, message Bad request syntax ('#ST')
+[24/May/2021 01:37:38] "#ST" 400 -
+[24/May/2021 01:37:40] code 400, message Bad HTTP/0.9 request type ('\x00')
+[24/May/2021 01:37:40] " n    beio" 400 -
+[24/May/2021 01:37:40,271] - Broken pipe from ('142.93.153.184', 35904)
+
+[24/May/2021 01:37:41] code 400, message Bad request syntax ('\x00\x00\x07\x00\x08\x00\x03\x00\x04\x00\x05\x00\x06')
+[24/May/2021 01:37:41] "       " 400 -
+[24/May/2021 01:37:41,909] - Broken pipe from ('142.93.153.184', 36900)
+
+Invalid HTTP_HOST header: 'ip-172-31-43-182.eu-central-1.compute.internal:8000'. You may need to add 'ip-172-31-43-182.eu-central-1.compute.internal' to ALLOWED_HOSTS.
+Bad Request: /
+[24/May/2021 01:37:43] "OPTIONS / HTTP/1.0" 400 62329
+[24/May/2021 01:37:43] code 400, message Bad request version ('RTSP/1.0')
+[24/May/2021 01:37:43] "OPTIONS / RTSP/1.0" 400 -
+[24/May/2021 01:37:45] code 400, message Bad request version ('\x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+[24/May/2021 01:37:45] "  (rþ          |                    " 400 -
+[24/May/2021 01:37:45,431] - Broken pipe from ('142.93.153.184', 39208)
+
+[24/May/2021 01:37:47] code 400, message Bad HTTP/0.9 request type ('\x00')
+[24/May/2021 01:37:47] "          versionbind   " 400 -
+[24/May/2021 01:37:47,069] - Broken pipe from ('142.93.153.184', 40270)
+
+[24/May/2021 01:37:48] code 400, message Bad HTTP/0.9 request type ('\x00')
+[24/May/2021 01:37:48] "            " 400 -
+[24/May/2021 01:37:48,707] - Broken pipe from ('142.93.153.184', 41270)
+
+[24/May/2021 01:37:48] code 400, message Bad request syntax ('HELP')
+[24/May/2021 01:37:48] "HELP" 400 -
+[24/May/2021 01:37:49] code 400, message Bad request syntax ('\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G×÷º,îê²`~ó\x00ý\x82{¹Õ\x96Èw\x9bæÄÛ<=Ûoï\x10n\x00\x00(\x00\x16\x00\x13\x00')
+[24/May/2021 01:37:49] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[24/May/2021 01:37:49] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00*%à\x00\x00\x00\x00\x00Cookie:')
+[24/May/2021 01:37:49] "  *%à     Cookie: mstshash=beio" 400 -
+[24/May/2021 01:37:49] code 400, message Bad request version ('\x00/\x00')
+[24/May/2021 01:37:49] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[24/May/2021 01:37:50] code 400, message Bad request syntax ('\x00\x00\x00qj\x81n0\x81k¡\x03\x02\x01\x05¢\x03\x02\x01')
+[24/May/2021 01:37:50] "   qjn0k¡¢" 400 -
+[24/May/2021 01:37:51] code 400, message Bad request version ('0.12\x00')
+[24/May/2021 01:37:51] "   ¤ÿSMBr    @              @     PC NETWORK PROGRAM 1.0 MICROSOFT NETWORKS 1.03 MICROSOFT NETWORKS 3.0 LANMAN1.0 LM1.2X002 Samba NT LANMAN 1.0 NT LM 0.12 " 400 -
+[24/May/2021 01:37:51,861] - Broken pipe from ('142.93.153.184', 43384)
+
+[24/May/2021 01:37:51] code 400, message Bad request syntax ('\x01default')
+[24/May/2021 01:37:51] "default" 400 -
+[24/May/2021 01:37:52] code 400, message Bad request syntax ('0\x84\x00\x00\x00-\x02\x01\x07c\x84\x00\x00\x00$\x04\x00')
+[24/May/2021 01:37:52] "0   -c   $ " 400 -
+[24/May/2021 01:37:54] code 400, message Bad HTTP/0.9 request type ('0')
+[24/May/2021 01:37:54] "0`  " 400 -
+[24/May/2021 01:37:54,150] - Broken pipe from ('142.93.153.184', 44880)
+
+[24/May/2021 01:37:54] code 400, message Bad request version ('SIP/2.0')
+[24/May/2021 01:37:54] "OPTIONS sip:nm SIP/2.0" 400 -
+[24/May/2021 01:37:55] code 400, message Bad request syntax ('TNMP\x04\x00\x00\x00TNME\x00\x00\x04\x00')
+[24/May/2021 01:37:55] "TNMP   TNME   " 400 -
+[24/May/2021 01:37:55,990] - Broken pipe from ('142.93.153.184', 45926)
+
+[24/May/2021 01:37:57] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00')
+[24/May/2021 01:37:57] "  à     " 400 -
+[24/May/2021 01:37:57,628] - Broken pipe from ('142.93.153.184', 47044)
+
+[24/May/2021 01:37:59] code 400, message Bad request syntax ('DmdT\x00\x00\x00\x17\x00\x00\x00\x01\x00\x00\x00\x00\x11\x11\x00ÿ\x01ÿ\x13')
+[24/May/2021 01:37:59] "DmdT           ÿÿ" 400 -
+[24/May/2021 01:37:59,267] - Broken pipe from ('142.93.153.184', 48028)
+
+[24/May/2021 01:38:00] code 400, message Bad HTTP/0.9 request type (':\x00\x00\x00/\x00\x00\x00\x02\x00\x00@\x02\x0f\x00\x01\x00=\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00/\x00\x00\x00\x00\x00\x00\x00\x00\x00@')
+[24/May/2021 01:38:00] ":   /     @  =            /         @                 " 400 -
+[24/May/2021 01:38:00,928] - Broken pipe from ('142.93.153.184', 48906)
+
+[24/May/2021 01:38:02] code 400, message Bad request syntax ('JRMI\x00\x02K')
+[24/May/2021 01:38:02] "JRMI K" 400 -
+[24/May/2021 01:38:02,512] - Broken pipe from ('142.93.153.184', 49894)
+
+[24/May/2021 01:38:04] code 400, message Bad request version ('\x00{\x00\x00\x00\x00\x00A\x00A\x00\x00\x00-\x00\x00A\x00\x00\x00-\x00\x00\x00a\x00\x00-\x00A\x00A\x00\x00A\x00-\x00\x00\x00\x00\x00A\x00\x00A\x00A\x00\x00A\x00A\x00\x00}\x00\x00\x00àmß_')
+[24/May/2021 01:38:04] "  ýÎú°    MMS                    ðððð    N S P l a y e r / 9 .  .  . 9 8  ;   {     A A   -  A   -   a  - A A  A -     A  A A  A A  }   àmß_" 400 -
+[24/May/2021 01:38:04,150] - Broken pipe from ('142.93.153.184', 50844)
+
+[24/May/2021 01:38:05] code 400, message Bad HTTP/0.9 request type ('\x00Z\x00\x00\x01\x00\x00\x00\x016\x01,\x00\x00\x08\x00\x7fÿ\x7f\x08\x00\x00\x00\x01\x00')
+[24/May/2021 01:38:05] " Z     6,   ÿ      :               æ           (CONNECT_DATA=(COMMAND=version))" 400 -
+[24/May/2021 01:38:05,787] - Broken pipe from ('142.93.153.184', 51738)
+
+[24/May/2021 01:38:07] code 400, message Bad request version ('\x03\x00(\x00\x04ÿ\x08\x00\x01U\x00\x00\x00MSSQLServer\x00H\x0f\x00\x00')
+[24/May/2021 01:38:07] " 4            ( ÿ U   MSSQLServer H  " 400 -
+[24/May/2021 01:38:07,425] - Broken pipe from ('142.93.153.184', 52754)
+
+[24/May/2021 01:38:09] code 400, message Bad request syntax ('\x00\x03\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x0f\x00')
+[24/May/2021 01:38:09] "              " 400 -
+[24/May/2021 01:38:09,062] - Broken pipe from ('142.93.153.184', 53576)
+
+[24/May/2021 01:38:10] code 400, message Bad request syntax ('GIOP\x01\x00\x01\x00$\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x06\x00\x00\x00abcdef\x00\x00\x04\x00\x00\x00get\x00\x00\x00\x00\x00')
+[24/May/2021 01:38:10] "GIOP  $                abcdef     get     " 400 -
+[24/May/2021 01:38:10,700] - Broken pipe from ('142.93.153.184', 54412)
+
+[24/May/2021 01:38:12] code 400, message Bad request syntax ('\x00\x9c\x00\x01\x1a+<M\x00\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01ÿÿ\x00\x01none\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00beio\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+[24/May/2021 01:38:12] "  +<M            ÿÿ none                                                            beio                                                            " 400 -
+[24/May/2021 01:38:12,337] - Broken pipe from ('142.93.153.184', 55208)
+
+[24/May/2021 01:38:13] code 400, message Bad request syntax ('\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x04\x00\x00\x00\x08\x00\x00\x00\x01\x00\x00\x00\x00')
+[24/May/2021 01:38:13] "                   " 400 -
+[24/May/2021 01:38:13,975] - Broken pipe from ('142.93.153.184', 55932)
+
+[24/May/2021 01:38:15] code 400, message Bad request syntax ('\x03\x81\x00\x00\x00\x00\x00_@\x00\x017\x00\x00\x00\x00\x00\x00\x00\x01\x00\x01\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00InitiatorName=iqn.1991-05.com.microsoft:beio-iscsi-probe\x00SessionType=Discovery\x00AuthMethod=None\x00\x00')
+[24/May/2021 01:38:15] "     _@ 7                                InitiatorName=iqn.1991-05.com.microsoft:beio-iscsi-probe SessionType=Discovery AuthMethod=None  " 400 -
+[24/May/2021 01:38:15,652] - Broken pipe from ('142.93.153.184', 56710)
+
+[24/May/2021 01:38:17] code 400, message Bad request version ('CharruaVista')
+[24/May/2021 01:38:17] "    Í   ANY-SCP         FINDSCU                                           1.2.840.10008.3.1.1.1   .   0  1.2.840.10008.1.1@  1.2.840.10008.1.2P  :Q    @ R  1.2.826.0.1.3680043.2.1396.999U  CharruaVista" 400 -
+[24/May/2021 01:38:17,210] - Broken pipe from ('142.93.153.184', 57506)
+
+[24/May/2021 01:38:17] code 400, message Bad HTTP/0.9 request type ("\x03\x00\x00,'à\x00\x00\x00\x00\x00Cookie:")
+[24/May/2021 01:38:17] "  ,'à     Cookie: mstshash=Administrator" 400 -
+[24/May/2021 01:38:19] code 400, message Bad request syntax ('\x00\x00\x00\x00\x00')
+[24/May/2021 01:38:19] "     " 400 -
+[24/May/2021 01:38:19,150] - Broken pipe from ('142.93.153.184', 58342)
+
+[24/May/2021 01:38:19] code 400, message Bad request syntax ('\x01I20100')
+[24/May/2021 01:38:19] "I20100" 400 -
+Not Found: /
+[24/May/2021 02:47:27] "GET / HTTP/1.1" 404 2230
+Not Found: /
+[24/May/2021 02:47:29] "GET / HTTP/1.1" 404 2230
+Not Found: /favicon.ico
+[24/May/2021 02:47:29] "GET /favicon.ico HTTP/1.1" 404 2281
+[24/May/2021 04:03:45,207] - Broken pipe from ('162.142.125.56', 58268)
+
+Not Found: /
+[24/May/2021 04:03:46] "GET / HTTP/1.1" 404 2230
+[24/May/2021 04:03:46,559] - Broken pipe from ('162.142.125.56', 57744)
+
+Not Found: /
+[24/May/2021 04:03:46] "GET / HTTP/1.1" 404 2230
+Not Found: /
+[24/May/2021 08:54:09] "GET / HTTP/1.1" 404 2225
+[24/May/2021 09:50:23] "GET /publications/ HTTP/1.1" 200 988
+Not Found: /images/icons/gear.png
+[24/May/2021 09:50:24] "GET /images/icons/gear.png HTTP/1.1" 404 2311
+[24/May/2021 09:52:00] "GET /publications/ HTTP/1.1" 200 988
+Not Found: /favicon.ico
+[24/May/2021 09:52:01] "GET /favicon.ico HTTP/1.1" 404 2281
+[24/May/2021 10:01:54] "GET /publications/ HTTP/1.1" 200 988
+[24/May/2021 10:01:54] "GET /publications/ HTTP/1.1" 200 988
+[24/May/2021 10:01:54] "GET /publications/ HTTP/1.1" 200 988
+[24/May/2021 10:01:58] "GET /publications/ HTTP/1.1" 200 988
+[24/May/2021 10:01:58] "GET /publications/ HTTP/1.1" 200 988
+[24/May/2021 10:01:59] "GET /publications/ HTTP/1.1" 200 988
+[24/May/2021 10:36:37] "GET /publications/ HTTP/1.1" 200 988
+[24/May/2021 10:36:43] "GET /publications/ HTTP/1.1" 200 988
+[24/May/2021 10:38:25] "GET /publications/ HTTP/1.1" 200 988
+[24/May/2021 10:38:31] "GET /publications HTTP/1.1" 301 0
+[24/May/2021 10:39:13] "GET /publications/ HTTP/1.1" 200 988
+[24/May/2021 10:46:33] "GET /publications/ HTTP/1.1" 200 988
+[24/May/2021 10:46:37] "GET /publications/ HTTP/1.1" 200 988
+[24/May/2021 10:52:57] "GET /publications/ HTTP/1.1" 200 988
+[24/May/2021 10:53:06] "GET /publications/ HTTP/1.1" 200 988
+Forbidden (CSRF cookie not set.): /publications/
+[24/May/2021 10:53:26] "POST /publications/ HTTP/1.1" 403 2870
+Forbidden (CSRF cookie not set.): /publications/
+[24/May/2021 10:53:28] "POST /publications/ HTTP/1.1" 403 2870
+Forbidden (CSRF cookie not set.): /publications/
+[24/May/2021 10:53:44] "POST /publications/ HTTP/1.1" 403 2870
+Forbidden (CSRF cookie not set.): /publications/
+[24/May/2021 10:53:50] "POST /publications/ HTTP/1.1" 403 2870
+Forbidden (CSRF cookie not set.): /publications/
+[24/May/2021 10:53:59] "POST /publications/ HTTP/1.1" 403 2870
+Forbidden (CSRF cookie not set.): /publications/
+[24/May/2021 10:54:47] "POST /publications/ HTTP/1.1" 403 2870
+Forbidden (CSRF cookie not set.): /publications/
+[24/May/2021 10:56:41] "POST /publications/ HTTP/1.1" 403 2870
+[24/May/2021 10:56:52] "GET /publications/ HTTP/1.1" 200 988
+[24/May/2021 10:59:04] "GET /publications/ HTTP/1.1" 200 988
+[24/May/2021 11:37:28] "GET /publications/ HTTP/1.1" 200 988
+[24/May/2021 11:37:30] "GET /publications/ HTTP/1.1" 200 988
+[24/May/2021 11:47:08] "GET /publications HTTP/1.1" 301 0
+[24/May/2021 11:47:08] "GET /publications/ HTTP/1.1" 200 988
+/home/ubuntu/bookbook/pytonback/AEII_2021_BD2_Utracki/djangoProject/djangoProject/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.8/threading.py", line 870, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/django/core/management/commands/runserver.py", line 110, in inner_run
+    autoreload.raise_last_exception()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/django/utils/autoreload.py", line 87, in raise_last_exception
+    raise _exception[1]
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/django/core/management/__init__.py", line 375, in execute
+    autoreload.check_errors(django.setup)()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/django/__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/django/apps/registry.py", line 91, in populate
+    app_config = AppConfig.create(entry)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/django/apps/config.py", line 224, in create
+    import_module(entry)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 973, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'corsheaders'
+/home/ubuntu/bookbook/pytonback/AEII_2021_BD2_Utracki/djangoProject/djangoProject/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.8/threading.py", line 870, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/django/core/management/commands/runserver.py", line 110, in inner_run
+    autoreload.raise_last_exception()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/django/utils/autoreload.py", line 87, in raise_last_exception
+    raise _exception[1]
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/django/core/management/__init__.py", line 375, in execute
+    autoreload.check_errors(django.setup)()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/django/__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/django/apps/registry.py", line 91, in populate
+    app_config = AppConfig.create(entry)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/django/apps/config.py", line 224, in create
+    import_module(entry)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 973, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'django_extensions'
+/usr/lib/python3.8/html/__init__.py changed, reloading.
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 02, 2021 - 06:01:38
+Django version 3.2.3, using settings 'djangoProject.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[02/Jun/2021 09:13:35] code 400, message Bad request version ('F\x07\x00tsXrcsXYs9\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00bbXcsXctst\x00\x00\x00\x00\x00\x00')
+[02/Jun/2021 09:13:35] "   TZ          0I    ¨À )t F tsXrcsXYs9                      bbXcsXctst      " 400 -
+[02/Jun/2021 10:18:05,066] - Broken pipe from ('162.142.125.39', 46484)
+
+[02/Jun/2021 10:18:06] "GET / HTTP/1.1" 200 101
+[02/Jun/2021 10:18:06,279] - Broken pipe from ('162.142.125.39', 45918)
+
+[02/Jun/2021 10:18:06] "GET / HTTP/1.1" 200 101
+Not Found: /_ignition/execute-solution
+[02/Jun/2021 10:28:35] "POST /_ignition/execute-solution HTTP/1.1" 404 5285
+[02/Jun/2021 12:07:20] code 400, message Bad request version ('¬Ý\x91ù³-_\x02Í\x83JhS\x18e\x9d\x8f\x1a')
+[02/Jun/2021 12:07:20] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[02/Jun/2021 14:23:00,746] - Broken pipe from ('162.142.125.56', 48622)
+
+[02/Jun/2021 14:23:01] "GET / HTTP/1.1" 200 101
+[02/Jun/2021 14:23:02,097] - Broken pipe from ('162.142.125.56', 49330)
+
+[02/Jun/2021 14:23:02] "GET / HTTP/1.1" 200 101
+[03/Jun/2021 00:12:46] "GET / HTTP/1.1" 200 91
+[03/Jun/2021 01:50:12] "GET / HTTP/1.1" 200 101
+[03/Jun/2021 05:45:28] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x01"\x01\x00\x01')
+[03/Jun/2021 05:45:28] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[03/Jun/2021 05:45:28] code 400, message Bad request version ('\x87^\x00\x00\x88À0À,À(À$À\x14À')
+[03/Jun/2021 05:45:28] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[03/Jun/2021 05:45:29] code 400, message Bad request syntax ('\x16\x03\x01\x00Æ\x01\x00\x00Â\x03\x022\x88ïSM,×\x92ßþè¶öÌ:lä\x94\x16ùú\x158TÙL½~q\x93\x18\x93\x00\x00PÀ\x14À')
+[03/Jun/2021 05:45:29] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[03/Jun/2021 05:45:30] code 400, message Bad HTTP/0.9 request type ("\x16\x03\x01\x00Æ\x01\x00\x00Â\x03\x01\x05$'\x96@!'ùè\x8ahZ`¨É5ô=\x8eÜ-PW²;")
+[03/Jun/2021 05:45:30] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[03/Jun/2021 05:45:33,645] - Broken pipe from ('164.52.24.172', 52429)
+
+[03/Jun/2021 05:45:33] "GET / HTTP/1.1" 200 101
+[03/Jun/2021 05:45:37,476] - Broken pipe from ('164.52.24.172', 44406)
+
+[03/Jun/2021 09:07:34,140] - Broken pipe from ('74.120.14.55', 41982)
+
+[03/Jun/2021 09:07:35] "GET / HTTP/1.1" 200 101
+[03/Jun/2021 09:07:35,361] - Broken pipe from ('74.120.14.55', 40168)
+
+[03/Jun/2021 09:07:35] "GET / HTTP/1.1" 200 101
+[03/Jun/2021 11:22:08] "GET /publications HTTP/1.1" 301 0
+[03/Jun/2021 11:22:09] "GET /publications/ HTTP/1.1" 200 919
+Not Found: /favicon.ico
+[03/Jun/2021 11:22:09] "GET /favicon.ico HTTP/1.1" 404 5239
+Invalid HTTP_HOST header: 'ip-172-31-43-182.eu-central-1.compute.internal:8000'. You may need to add 'ip-172-31-43-182.eu-central-1.compute.internal' to ALLOWED_HOSTS.
+Bad Request: /
+[03/Jun/2021 13:38:43] "HEAD / HTTP/1.0" 400 63224
+Not Found: /system_api.php
+[03/Jun/2021 13:38:43] "GET /system_api.php HTTP/1.1" 404 5248
+Not Found: /system_api.php
+[03/Jun/2021 13:38:44] "GET /system_api.php HTTP/1.1" 404 5248
+Not Found: /c/version.js
+[03/Jun/2021 13:38:45] "GET /c/version.js HTTP/1.1" 404 5242
+Not Found: /streaming/clients_live.php
+[03/Jun/2021 13:38:46] "GET /streaming/clients_live.php HTTP/1.1" 404 5284
+Not Found: /stalker_portal/c/version.js
+[03/Jun/2021 13:38:48] "GET /stalker_portal/c/version.js HTTP/1.1" 404 5287
+Not Found: /client_area/
+[03/Jun/2021 13:38:49] "GET /client_area/ HTTP/1.1" 404 5242
+Not Found: /stalker_portal/c/
+[03/Jun/2021 13:38:50] "GET /stalker_portal/c/ HTTP/1.1" 404 5257
+Not Found: /stream/live.php
+[03/Jun/2021 13:38:51] "GET /stream/live.php HTTP/1.1" 404 5251
+[03/Jun/2021 14:20:29] "GET / HTTP/1.1" 200 101
+[03/Jun/2021 14:20:30] "GET / HTTP/1.1" 200 101
+[03/Jun/2021 14:28:27] "GET / HTTP/1.1" 200 101
+[03/Jun/2021 14:28:27] code 400, message Bad request version ("4û¼2¬\x939\x00v\x13\x02\x13\x03\x13\x01À/À+À0À,\x00\x9eÀ'\x00gÀ(\x00k\x00£\x00\x9fÌ©Ì¨ÌªÀ¯À\xadÀ£À\x9fÀ]ÀaÀWÀS\x00¢À®À¬À¢À\x9eÀ\\À`ÀVÀRÀ$\x00jÀ#\x00@À")
+[03/Jun/2021 14:28:27] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[03/Jun/2021 15:16:07] "GET / HTTP/1.0" 200 5399
+[03/Jun/2021 15:23:23] "GET / HTTP/1.1" 200 101
+[03/Jun/2021 15:57:46] "GET / HTTP/1.0" 200 5399
+[03/Jun/2021 15:59:15] "GET /publications/?fbclid=IwAR3VifmRb6SpteRCKKu7wmTTUCln6djXyCIviK9LjZV6vTOLDGC2s1fglaU HTTP/1.1" 200 919
+[03/Jun/2021 16:32:24] code 400, message Bad request version ('À\x14À')
+[03/Jun/2021 16:32:24] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[03/Jun/2021 19:52:42] "GET / HTTP/1.1" 200 101
+[04/Jun/2021 01:31:34,387] - Broken pipe from ('162.142.125.55', 48618)
+
+[04/Jun/2021 01:31:35] "GET / HTTP/1.1" 200 101
+[04/Jun/2021 01:31:35,603] - Broken pipe from ('162.142.125.55', 51074)
+
+[04/Jun/2021 01:31:35] "GET / HTTP/1.1" 200 101
+Not Found: /_ignition/execute-solution
+[04/Jun/2021 06:12:18] "POST /_ignition/execute-solution HTTP/1.1" 404 5285
+[04/Jun/2021 11:16:44,144] - Broken pipe from ('162.142.125.54', 42664)
+
+[04/Jun/2021 11:16:45] "GET / HTTP/1.1" 200 101
+[04/Jun/2021 11:16:45,342] - Broken pipe from ('162.142.125.54', 41488)
+
+[04/Jun/2021 11:16:45] "GET / HTTP/1.1" 200 101
+[04/Jun/2021 11:52:39] "GET / HTTP/1.1" 200 91
+[04/Jun/2021 13:09:06,115] - Broken pipe from ('167.248.133.53', 43806)
+
+[04/Jun/2021 13:09:07] "GET / HTTP/1.1" 200 101
+[04/Jun/2021 13:09:07,310] - Broken pipe from ('167.248.133.53', 43646)
+
+[04/Jun/2021 13:09:07] "GET / HTTP/1.1" 200 101
+[04/Jun/2021 13:18:28] "GET / HTTP/1.1" 200 101
+Not Found: /_ignition/execute-solution
+[04/Jun/2021 13:28:40] "POST /_ignition/execute-solution HTTP/1.1" 404 5285
+[04/Jun/2021 14:52:55] "GET / HTTP/1.1" 200 101
+[04/Jun/2021 17:28:35,674] - Broken pipe from ('162.142.125.56', 36064)
+
+[04/Jun/2021 17:28:36] "GET / HTTP/1.1" 200 101
+[04/Jun/2021 17:28:36,950] - Broken pipe from ('162.142.125.56', 54284)
+
+[04/Jun/2021 17:28:37] "GET / HTTP/1.1" 200 101
+[04/Jun/2021 19:51:49] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[04/Jun/2021 19:51:49] "  /*à     Cookie: mstshash=Administr" 400 -
+[04/Jun/2021 20:06:06] "GET / HTTP/1.1" 200 101
+[04/Jun/2021 20:06:07] "GET / HTTP/1.1" 200 101
+Not Found: /favicon.ico
+[04/Jun/2021 20:06:08] "GET /favicon.ico HTTP/1.1" 404 5239
+[04/Jun/2021 20:40:41] "GET / HTTP/1.1" 200 101
+[04/Jun/2021 21:57:15] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00')
+[04/Jun/2021 21:57:15] "    c                           " 400 -
+[05/Jun/2021 01:05:24,074] - Broken pipe from ('162.142.125.56', 48466)
+
+[05/Jun/2021 01:05:25] "GET / HTTP/1.1" 200 101
+[05/Jun/2021 01:05:25,276] - Broken pipe from ('162.142.125.56', 48758)
+
+[05/Jun/2021 01:05:25] "GET / HTTP/1.1" 200 101
+[05/Jun/2021 01:16:28] "GET / HTTP/1.1" 200 5399
+Not Found: /favicon.ico
+[05/Jun/2021 01:16:29] "GET /favicon.ico HTTP/1.1" 404 5239
+[05/Jun/2021 01:16:34] "GET / HTTP/1.1" 200 101
+[05/Jun/2021 01:17:45] code 400, message Bad request syntax ('\x03mÐº`\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+[05/Jun/2021 01:17:45] "mÐº`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            " 400 -
+[05/Jun/2021 03:24:41] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00')
+[05/Jun/2021 03:24:41] "    c                           " 400 -
+[05/Jun/2021 04:55:46] code 400, message Bad HTTP/0.9 request type ('\\x01\\x00\\x00\\x00')
+[05/Jun/2021 04:55:46] "\x01\x00\x00\x00 \xbf\x02\x00\x88\x13\x00\x00\x87\x00\x00\x00NIMABIJIAN\x04\x03\x00\x00{\x99Caig\x9c\x03\xc7eB\xc5\t\xc1\x18a\x11\x1a\x91\x1f\x02\tcof\x91\xc0\x80sJ5\xd2\x80\xe6\x9a~\xb9\xc7\x83^\x96\xeeN\x16\x96\x96&\xe6\x03\xea\xbc\x81\x02=\xac\x10\xfa?7\x03\xc3\xdf\xf7\xe4\x98`p\xe6\x8d\xc1\xa9\x8d\xc6\x06\xdb\xaf\x91\xe7\x82s\xf7\x14H\xd4\xe1W\x9a\x93C\x9e]\xa4\x01#\x03#\x03]\x03c]CC\x05C\x03+S\x03b\xf4\x00\x00/\x9e\x16E" 400 -
+[05/Jun/2021 05:33:17] "GET / HTTP/1.1" 200 101
+[05/Jun/2021 07:46:41] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[05/Jun/2021 07:46:41] "  /*à     Cookie: mstshash=Administr" 400 -
+[05/Jun/2021 08:15:18] "GET / HTTP/1.1" 200 91
+[05/Jun/2021 11:20:53] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00')
+[05/Jun/2021 11:20:53] "    c                           " 400 -
+[05/Jun/2021 11:28:11] "GET / HTTP/1.0" 200 5399
+[05/Jun/2021 13:39:57] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[05/Jun/2021 13:39:57] "  /*à     Cookie: mstshash=Administr" 400 -
+[05/Jun/2021 18:04:23] code 400, message Bad request syntax ('\x04\x01\x00\x19h/\x06!\x00')
+[05/Jun/2021 18:04:23] " h/! " 400 -
+[05/Jun/2021 18:04:23,890] - Broken pipe from ('89.248.165.52', 33916)
+
+[05/Jun/2021 18:05:23] code 400, message Bad request syntax ('\x05\x01\x00')
+[05/Jun/2021 18:05:23] " " 400 -
+[05/Jun/2021 18:05:23,916] - Broken pipe from ('89.248.165.52', 38262)
+
+Invalid HTTP_HOST header: 'hotmail-com.olc.protection.outlook.com:25'. You may need to add 'hotmail-com.olc.protection.outlook.com' to ALLOWED_HOSTS.
+Bad Request: /hotmail-com.olc.protection.outlook.com:25
+[05/Jun/2021 18:05:23] "CONNECT hotmail-com.olc.protection.outlook.com:25 HTTP/1.1" 400 63705
+[05/Jun/2021 19:28:38] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00')
+[05/Jun/2021 19:28:38] "    c                           " 400 -
+[05/Jun/2021 20:07:04] "GET / HTTP/1.1" 200 101
+[05/Jun/2021 20:45:48] "GET / HTTP/1.0" 200 5399
+[05/Jun/2021 21:10:08] "GET / HTTP/1.1" 200 101
+[05/Jun/2021 23:42:24] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[05/Jun/2021 23:42:24] "  /*à     Cookie: mstshash=Administr" 400 -
+[06/Jun/2021 00:04:23] "GET / HTTP/1.1" 200 91
+Not Found: /_ignition/execute-solution
+[06/Jun/2021 06:53:21] "POST /_ignition/execute-solution HTTP/1.1" 404 5285
+[06/Jun/2021 06:55:14,282] - Broken pipe from ('162.142.125.40', 53568)
+
+[06/Jun/2021 06:55:15] "GET / HTTP/1.1" 200 101
+[06/Jun/2021 06:55:15,496] - Broken pipe from ('162.142.125.40', 53268)
+
+[06/Jun/2021 06:55:15] "GET / HTTP/1.1" 200 101
+[06/Jun/2021 12:17:45] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 12:17:45] "GET /publications/ HTTP/1.1" 200 919
+Not Found: /favicon.ico
+[06/Jun/2021 12:17:45] "GET /favicon.ico HTTP/1.1" 404 5239
+[06/Jun/2021 13:00:28] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 13:06:06] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 13:07:09] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 13:07:19] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 13:08:19] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 13:13:09] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 13:13:52] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 13:14:17] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 13:14:57] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 13:15:38] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 13:16:07] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 13:17:36] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 13:18:22] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 13:19:19] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 13:19:35] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 13:20:53] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 13:21:16] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 13:21:26] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 13:21:31] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 13:21:40] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 13:23:09] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 13:23:26] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 13:23:47] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 13:25:12] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 13:36:06,810] - Broken pipe from ('94.26.248.87', 45678)
+
+Not Found: /favicon.ico
+[06/Jun/2021 13:43:42] "GET /favicon.ico HTTP/1.1" 404 5239
+[06/Jun/2021 13:45:06] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 13:48:43] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 13:48:55] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 13:49:12] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 13:50:57] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 13:51:09] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 13:51:44] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 13:52:09] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 13:53:58] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 13:55:13] "GET /publications/ HTTP/1.1" 200 919
+[06/Jun/2021 14:13:10,682] - Broken pipe from ('162.142.125.40', 39322)
+
+[06/Jun/2021 14:13:11] "GET / HTTP/1.1" 200 101
+[06/Jun/2021 14:13:12,155] - Broken pipe from ('162.142.125.40', 58620)
+
+[06/Jun/2021 14:13:12] "GET / HTTP/1.1" 200 101
+[06/Jun/2021 14:56:12,863] - Broken pipe from ('91.206.15.118', 35837)
+
+[06/Jun/2021 16:31:30] "GET /publications/ HTTP/1.1" 200 919
+Not Found: /_ignition/execute-solution
+[06/Jun/2021 17:38:37] "POST /_ignition/execute-solution HTTP/1.1" 404 5285
+[06/Jun/2021 20:18:44] code 400, message Bad request syntax ('\x16\x03\x01\x00u\x01\x00\x00q\x03\x03\x9d\x07Æ}\x9b\x0e')
+[06/Jun/2021 20:18:44] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[06/Jun/2021 21:23:02,749] - Broken pipe from ('74.120.14.38', 56170)
+
+[06/Jun/2021 21:23:03] "GET / HTTP/1.1" 200 101
+[06/Jun/2021 21:23:03,960] - Broken pipe from ('74.120.14.38', 53086)
+
+[06/Jun/2021 21:23:04] "GET / HTTP/1.1" 200 101
+[06/Jun/2021 23:04:46] "GET / HTTP/1.1" 200 101
+[07/Jun/2021 05:38:11] code 400, message Bad HTTP/0.9 request type ('Z¥\x01')
+[07/Jun/2021 05:38:11] "Z¥     " 400 -
+[07/Jun/2021 07:27:10] "GET /publications/ HTTP/1.1" 200 919
+[07/Jun/2021 07:27:53] "GET /publications/ HTTP/1.1" 200 919
+[07/Jun/2021 07:27:54] "GET /publications/ HTTP/1.1" 200 919
+[07/Jun/2021 07:27:55] "GET /publications/ HTTP/1.1" 200 919
+[07/Jun/2021 07:27:56] "GET /publications/ HTTP/1.1" 200 919
+[07/Jun/2021 07:27:57] "GET /publications/ HTTP/1.1" 200 919
+[07/Jun/2021 07:27:58] "GET /publications/ HTTP/1.1" 200 919
+[07/Jun/2021 07:27:59] "GET /publications/ HTTP/1.1" 200 919
+[07/Jun/2021 07:27:59] "GET /publications/ HTTP/1.1" 200 919
+[07/Jun/2021 07:28:02] "GET /publications/ HTTP/1.1" 200 919
+[07/Jun/2021 10:29:08] code 400, message Bad request version ('cof\x91À\x80sJ5Ò\x80æ\x9a~¹Ç\x83^\x96îN\x16\x96\x96&æ\x03ê¼\x81\x02=¬\x10ú?7\x03Ãß÷ä\x98`pæ\x8dÁ©\x8dÆ\x06Û¯\x91ç\x82s÷\x14HÔáW\x9a\x93C\x9e]¤\x01#\x03#\x03]\x03c]CC\x05C\x03+S\x03bô\x00\x00/\x9e\x16E')
+[07/Jun/2021 10:29:08] "    ¿      NIMABIJIAN  {CaigÇeBÅ	Áa	cofÀsJ5Òæ~¹Ç^îN&æê¼=¬ú?7Ãß÷ä`pæÁ©ÆÛ¯çs÷HÔáWC]¤##]c]CCC+Sbô  /E" 400 -
+[07/Jun/2021 11:37:29] "GET /publications/ HTTP/1.1" 200 919
+[07/Jun/2021 12:06:41] "GET /publications/ HTTP/1.1" 200 919
+[07/Jun/2021 12:06:44] "GET /publications/ HTTP/1.1" 200 919
+[07/Jun/2021 12:27:42] "GET /publications/ HTTP/1.1" 200 919
+[07/Jun/2021 12:27:46] "GET /publications/ HTTP/1.1" 200 919
+[07/Jun/2021 12:27:49] "GET /publications/ HTTP/1.1" 200 919
+[07/Jun/2021 12:27:50] "GET /publications/ HTTP/1.1" 200 919
+[07/Jun/2021 12:30:03] "GET /publications/ HTTP/1.1" 200 919
+[07/Jun/2021 12:30:03] "GET /publications/ HTTP/1.1" 200 919
+[07/Jun/2021 12:30:04] "GET /publications/ HTTP/1.1" 200 919
+[07/Jun/2021 12:30:05] "GET /publications/ HTTP/1.1" 200 919
+[07/Jun/2021 12:30:14] "GET /publications/ HTTP/1.1" 200 919
+[07/Jun/2021 12:30:15] "GET /publications/ HTTP/1.1" 200 919
+[07/Jun/2021 12:30:27] "GET /publications/ HTTP/1.1" 200 919
+[07/Jun/2021 12:30:34] "GET /publications/ HTTP/1.1" 200 919
