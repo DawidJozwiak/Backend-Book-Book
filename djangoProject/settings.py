@@ -132,7 +132,7 @@ STATIC_URL = '/static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-ALLOWED_HOSTS = ['127.0.0.1', '0.0.0.0', '18.185.13.158', '3.68.36.95', 'localhost']
+ALLOWED_HOSTS = ['127.0.0.1', '0.0.0.0', '18.185.13.158', '3.68.36.95', 'bookbookbackend.herokuapp.com']
 
 REST_FRAMEWORK = {
     'DEFAULT_FILTER_BACKENDS': ['django_filters.rest_framework.DjangoFilterBackend'],
